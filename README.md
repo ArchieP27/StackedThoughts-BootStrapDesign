@@ -58,8 +58,6 @@ A simple responsive blog template built using Bootstrap 5, featuring a navbar, b
 
 This project is open source and free to use.
 
----
-
 Feel free to contribute or customize this template to suit your needs!
 
 ---
